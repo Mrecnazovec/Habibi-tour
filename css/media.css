@@ -1,0 +1,719 @@
+@media screen and (max-width:1800px) {
+    .container {
+        max-width: 1150px !important;
+    }
+
+    .header {
+        background-image: url(../assets/images/bgOne_ad.png);
+        height: 900px;
+    }
+
+    .menu {
+        position: absolute;
+        right: 150px;
+        height: 100px;
+        align-items: center;
+    }
+
+    .mainOne_box_img_box {
+        width: 356px;
+    }
+
+    .mainTwo {
+        background-image: url(../assets/images/bacground2.png);
+    }
+
+    .mainTwo_blueBox {
+        background-size: 1250px 740px;
+        width: 1050px;
+        padding-left: 330px;
+        padding-top: 200px;
+    }
+
+    /* .pos_blue_box {
+        left: 300px;
+    } */
+
+    .mainThree {
+        background-size: 850px;
+    }
+
+    .mainOne_box_img_box.three .mainOne_picture {
+        height: 310px;
+        width: 320px;
+    }
+
+    .info_title_text {
+        font-size: 25px;
+        line-height: 34px;
+    }
+
+    .star_pic {
+        width: 26px;
+        height: 26px;
+    }
+
+    .star_box_stats {
+        font-size: 25px;
+        line-height: 34px;
+    }
+
+    .info_info {
+        font-size: 16px;
+    }
+
+    .minibox_icon {
+        width: 20px;
+        height: 20px;
+    }
+
+    .info_minibox_text {
+        font-size: 13px;
+    }
+
+    .info_li {
+        font-size: 16px;
+    }
+
+    .price span {
+        font-size: 23px;
+        line-height: 31px;
+    }
+
+    .price {
+        font-size: 16px;
+    }
+
+    .btn_card {
+        font-size: 20px;
+        width: 360px;
+    }
+
+    .mainOne_box_img_box.three {
+        width: 360px;
+    }
+
+    .mainThree_title {
+        font-size: 60px;
+        margin-right: 190px;
+    }
+
+    .menu_list_text {
+        font-size: 18px;
+    }
+
+    .language {
+        font-size: 18px;
+    }
+
+    .navbar {
+        margin-bottom: 80px;
+    }
+
+    .mf_title {
+        font-size: 60px;
+    }
+
+    .language_box {
+        width: 80px;
+        height: 56px;
+    }
+
+    .language_box a {
+        font-size: 18px;
+    }
+
+    .language_box.active {
+        animation: listAdapt 1s forwards;
+        -webkit-animation: listAdapt 1s forwards;
+    }
+
+    .language_box.disable {
+        animation: list2Adapt 1s forwards;
+        -webkit-animation: list2Adapt 1s forwards;
+    }
+}
+
+
+@media screen and (max-width:1700px) {
+    .mainTwo_blueBox {
+        width: 890px;
+        background-size: 1000px 700px;
+    }
+
+    /* .pos_blue_box {
+        left: 230px;
+    } */
+}
+
+@media screen and (max-width:1550px) {
+    .hs_textbox_title {
+        font-size: 62px;
+        max-width: 521px;
+    }
+
+    .hs_textbox_text {
+        font-size: 18px;
+        max-width: 395px;
+    }
+
+    .button_text {
+        font-size: 20px;
+    }
+
+    .navbar {
+        margin-bottom: 150px;
+    }
+
+    .mainOne_title {
+        font-size: 60px;
+        max-width: 679px;
+        margin-bottom: 25px;
+    }
+
+    .mainTwo_title {
+        font-size: 60px;
+        max-width: 750px;
+    }
+
+    .mainTwo_blueBox {
+        /* background-image: url(../assets/icons/bluephone.svg); */
+        padding-top: 160px;
+        padding-left: 210px;
+    }
+
+    .mainTwo_blueBox_one_number {
+        font-size: 40px;
+        line-height: 55px;
+    }
+
+    .mainTwo_blueBox_one_info {
+        font-size: 20px;
+    }
+
+    .mainThree {
+        background-size: 732px 537px;
+    }
+
+    .mainThree_title_white {
+        font-size: 20px;
+        right: 290px;
+    }
+
+
+
+    .f_onebox_textone {
+        font-size: 20px;
+    }
+
+    .f_onebox_texttwo {
+        font-size: 20px;
+    }
+
+    .f_socbox img {
+        width: 50px;
+        height: 50px;
+    }
+
+    .menu_listf_title {
+        font-size: 20px;
+    }
+
+    .menu_list_two_text {
+        font-size: 18px;
+    }
+
+    .menu_list_two_textz {
+        font-size: 18px;
+    }
+
+    /* .pos_blue_box {
+        left: 160px;
+    } */
+    .mainTwo_blueBox {
+        background-size: 780px 580px;
+
+    }
+}
+
+@media screen and (max-width: 1340px) {
+    .mainThree {
+        background-size: 650px 480px;
+    }
+
+    .mainThree_title_white {
+        right: 170px;
+    }
+
+    .mainTwo {
+        background-size: 500px 450px;
+        padding-bottom: 0;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .container {
+        padding-right: 25px !important;
+        padding-left: 25px !important;
+    }
+
+    .hs_textbox_title {
+        font-size: 45px;
+        max-width: 360px;
+    }
+
+    .hs_textbox_text {
+        margin-bottom: 15px;
+    }
+
+    .mainOne_title {
+        font-size: 45px;
+        max-width: 400px;
+        margin-bottom: 15px;
+    }
+
+    .mainTwo_blueBox {
+        background-size: 650px 580px;
+        padding-top: 160px;
+    }
+
+    /* .pos_blue_box {
+        left: 15px;
+        bottom: 160px;
+    } */
+    .mainOne_main_box {
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .mainOne_box_img_one:nth-child(1) {
+        margin: 0;
+    }
+
+    .mainOne_box_img {
+        display: flex;
+    }
+
+    .mainOne_box_img_one {
+        margin-right: 0;
+    }
+
+    .mainOne_box_img_box {
+        margin-right: 48px;
+    }
+
+    .mainThree_title_white {
+        display: none;
+    }
+
+    .mainThree {
+        background-image: none;
+    }
+
+    .card_big_box {
+        flex-wrap: wrap;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .mainOne_box_img_box {
+        margin-right: 30px;
+    }
+
+    .card_box {
+        margin-bottom: 30px;
+    }
+
+    .mainOne_box_img_box.three {
+        width: 525px;
+    }
+
+    .mainOne_box_img_box.three .mainOne_picture {
+        height: 452px;
+        width: 100%;
+    }
+
+    .btn_card {
+        width: 525px;
+    }
+
+    .mainThree_title_box {
+        text-align: center;
+        display: block;
+    }
+
+    .mainThree_title {
+        margin-right: 0;
+        margin-bottom: 25px;
+    }
+
+    .mainOne_title {}
+
+    .mainOne_box {
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .mainFour {
+        background-image: none;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    .mainTwo_blueBox {
+        display: none;
+    }
+
+    .mainTwo_blueBoxMobile {
+        display: flex;
+    }
+
+    .mainTwo {
+        background-position: right top 180px;
+        background-size: 700px 600px;
+        margin-bottom: 30px;
+    }
+
+    .mainTwo .container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .mainTwo_title {
+        margin-bottom: 700px;
+    }
+
+    .header {
+        background-size: 500px 500px;
+        background-position: bottom right;
+        background-image: url(../assets/images/firstSection_last.png);
+
+    }
+
+    .menu a, .language {
+        color: #27292E !important;
+    }
+
+    .lang_span {
+        background-image: url(../assets/icons/strelkaBlack.svg);
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .menu {
+        position: static;
+        padding-right: 25px;
+    }
+
+    .header {
+        background-size: 400px 400px;
+        background-position: bottom right;
+
+    }
+
+}
+
+@media screen and (max-width: 850px) {
+    .header {
+        background-size: 600px 600px;
+        background-position: bottom right;
+        height: 1200px;
+
+    }
+
+    .header .navbar {
+        margin-bottom: 52px;
+    }
+
+    .header_section_textbox {
+        margin-right: 0;
+    }
+
+    .header_section_textbox {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .mainFour input {
+        width: 90% !important;
+    }
+
+    .textarea {
+        width: 90% !important;
+    }
+
+    .input-group-text {
+        padding-left: 20px !important;
+        padding-top: 27px !important;
+    }
+
+    .mainOne_box_img_flex {
+        display: block;
+    }
+
+    .mainOne_box_img_box {
+        margin-right: 0;
+    }
+
+    .mainOne_box_img {
+        display: block;
+    }
+
+    .mainOne_box_img_box {
+        width: 520px;
+    }
+
+    .telegram-form {
+        padding: 20px;
+        width: 100%;
+    }
+
+    .button_end {
+        padding: 21px 0px !important;
+        width: 100%;
+    }
+
+    .f_menuone {
+        display: none;
+    }
+
+    .f_menuone.mobile {
+        display: block;
+        padding: 0;
+        margin-right: 86px;
+    }
+
+    .f_menuOne_bigBox {
+        display: flex;
+        order: 2;
+    }
+
+    .f_menuone.last {
+        display: block;
+        padding: 0;
+    }
+
+    .f_bigbox {
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-around;
+    }
+
+    .f_onebox {
+        margin-bottom: 40px;
+    }
+
+    .f_menuOne_bigBox {
+        margin-bottom: 14px;
+    }
+
+    .mainTwo_title {
+        font-size: 40px;
+        max-width: 328px;
+
+    }
+
+    .mainThree_title {
+        font-size: 38px;
+    }
+
+    .mf_title {
+        font-size: 44px;
+    }
+
+}
+
+@media screen and (max-width:700px) {
+    .menu_list {
+        display: none;
+    }
+
+    .ten {
+        width: 100%;
+    }
+
+    .header_section_textbox {
+        text-align: left;
+        align-items: unset;
+    }
+
+    .mainOne_title {
+        text-align-last: left;
+    }
+
+    .mainOne_box .button_hs {
+        display: none !important;
+    }
+
+    .button_hs.mobile {
+        display: block !important;
+        width: 100%;
+    }
+
+    .mainTwo {
+        background-size: 100%;
+    }
+
+    .mainOne_box_img_box.three {
+        width: 100%;
+
+    }
+
+    .btn_card {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:550px) {
+    .mainOne_box_img_box.three .mainOne_picture {
+        width: 288.89px;
+        height: 279.86px;
+    }
+
+    .input-group {
+        flex-wrap: nowrap !important;
+    }
+
+    .f_bigbox {
+        display: block;
+    }
+
+    .mainOne_box_img_box {
+        width: 100%;
+    }
+
+    .mainOne_box {
+        text-align: unset;
+    }
+
+    .header {
+        background-size: auto;
+        height: 1020px;
+    }
+
+    .hs_textbox_title {
+        font-size: 35px;
+    }
+
+    .hs_textbox_text {
+        font-size: 16px;
+    }
+
+    .button_hs {
+        max-height: 60px;
+    }
+
+    .menu {
+        padding: 0;
+    }
+
+    .mainOne_title {
+        font-size: 37px;
+    }
+
+    .mainTwo_title {
+        font-size: 40px;
+        margin-bottom: 560px;
+    }
+
+    .mainTwo_blueBox_one_number {
+        font-size: 25px;
+    }
+
+    .mainTwo_blueBox_one_info {
+        font-size: 15px;
+    }
+
+    .mainFour input {
+        height: 60px;
+    }
+
+    .input-group-text {
+        padding-left: 15px !important;
+        padding-top: 18px !important;
+    }
+
+    .input-group img {
+        width: 20px;
+        height: 24px;
+    }
+
+    .mainFour input{
+        font-size: 15px;
+    }
+    .mainFour input::placeholder{
+        font-size: 15px;
+
+    }
+    .textarea {
+        font-size: 15px;
+    }
+    .textarea::placeholder {
+        font-size: 15px;
+    }
+    .button_end {
+        margin-top: 30px;
+    }
+    .btn_card {
+        padding: 10px !important;
+        font-size: 20px !important;
+    }
+    .mf_title {
+        font-size: 30px;
+    }
+    .button_end {
+
+    }
+    .mainThree {
+        padding-bottom: 70px;
+    }
+
+}
+@media screen and (max-width: 450px) {
+    .mainTwo_title {
+        margin-bottom: 460px;
+    }
+    .button_end {
+        padding: 13px 0 !important;
+        font-size: 20px !important;
+    }
+    .ten_end {
+        display: none;
+    }
+    
+}
+@media screen and (max-width:350px) {
+    .navbar .container{
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .logo_box {
+        width: fit-content;
+    }
+    .header .navbar {
+        margin-bottom: 0;
+    }
+    .header {
+        background-size:320px 400px;
+    }
+    .mainTwo_blueBox_one:nth-child(1) {
+        margin-right: 30px;
+    }
+    .telegram-form {
+        padding: 10px;
+    }
+
+    
+}
