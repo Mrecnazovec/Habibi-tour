@@ -156,6 +156,7 @@
     width: 117px;
     text-align: center;
     border-radius: 10px;
+    display: none;
 
 }
 
@@ -181,11 +182,13 @@
 
     animation: list 1s forwards;
     -webkit-animation: list 1s forwards;
+    display: block;
 }
 
 .language_box.disable {
     animation: list2 1s forwards;
     -webkit-animation: list2 1s forwards;
+    display: block;
 }
 
 @keyframes list {
@@ -216,14 +219,14 @@
     }
 
     100% {
-        height: 67px;
+        height: 66px;
     }
 
 }
 
 @keyframes list2Adapt {
     0% {
-        height: 67px;
+        height: 66px;
     }
 
     100% {
