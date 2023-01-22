@@ -1,0 +1,367 @@
+@media screen and (max-width:1800px) {
+    .container {
+        max-width: 1500px !important;
+        z-index: 10;
+        padding: 0 !important;
+    }
+}
+
+@media screen and (max-width:1600px) {
+    .container {
+        max-width: 1400px !important;
+        z-index: 10;
+        padding: 0 !important;
+    }
+}
+
+@media screen and (max-width:1550px) {
+    .container {
+        max-width: 1150px !important;
+        z-index: 10;
+        padding: 0 !important;
+    }
+    .logo {
+        width: 150px;
+        height: 51px;
+    }
+    .menu_list_text {
+        font-size: 18px;
+    }
+    .language {
+        font-size: 18px;
+    }
+    .language_box {
+        width: 80px;
+        height: 65px;
+    }
+    .language_box.active {
+        animation: listAdapt 1s forwards;
+        -webkit-animation: listAdapt 1s forwards;
+    }
+
+    .language_box.disable {
+        animation: list2Adapt 1s forwards;
+        -webkit-animation: list2Adapt 1s forwards;
+    }
+
+    .language_box a {
+        font-size: 18px;
+    }
+    .country_box {
+        height: 396px;
+        width: 1130px;
+        padding-top: 30px !important;
+        padding-left: 30px !important;
+        padding-right: 30px !important;
+    }
+    .border_box {
+        height: 412px;
+    }
+    .box_star {
+        width: 89px;
+        height: 40px;
+    }
+    .star {
+        width: 19px;
+        height: 19px;
+    }
+    .star_text {
+        font-size: 20px;
+    }
+    .box_prise {
+        width: 140px;
+        height: 40px;
+    }
+    .prise_text {
+        font-size: 20px;
+    }
+    .prise_texttwo {
+        font-size: 20px;
+    }
+    .double_box {
+        margin-bottom: 58px;
+    }
+    .country_name {
+        font-size: 100px;
+    }
+    .main_one_bigbox {
+        height: 208px;
+    }
+    .bo_img {
+        width: 64px;
+        height: 64px;
+        margin-right: 20px;
+    }
+    .bo_textbox_title {
+        font-size: 20px;
+        line-height: 188.03%;
+    }
+    .bo_textbox_text {
+        font-size: 18px;
+        line-height: 188.03%;
+    }
+    .mt_bigbox {
+        height: 207px;
+        padding: 42px 60px;
+    }
+    .mt_text {
+        font-size: 22px;
+        line-height: 185%;
+    }
+    form:nth-child(1) input {
+        width: 500px !important;
+        height: 70px;
+    }
+    .textarea {
+        width: 500px !important;
+        height: 181px;
+    }
+    .button_end {
+    }
+    #button-container input {
+        height: 76px;
+        width: 600px;
+    }
+    .p_box {
+        width: 700px;
+        height: 820px;
+    }
+    .f_logo {
+        width: 167px;
+        height: 56.78px;
+    }
+    .f_onebox_textone {
+        font-size: 20px;
+        line-height: 180%;
+    }
+    .f_onebox_texttwo {
+        font-size: 20px;
+        line-height: 180%;
+    }
+    .inst {
+        width: 49.97px !important;
+        height: 50px !important;
+    }
+    .fas {
+        width: 49.97px !important;
+        height: 48.75px !important;
+    }
+    .tg {
+        width: 48.72px !important;
+        height: 50px !important;
+    }
+    .menu_listf_title {
+        font-size: 20px;
+        line-height: 180%;
+    }
+    .menu_list_two_text {
+        font-size: 18px;
+        line-height: 180%;
+    }
+    .menu_list_two_textz {
+        font-size: 18px;
+        line-height: 180%;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    .container {
+        max-width: 900px !important;
+    }
+    .mt_text {
+        font-size: 18px;
+    }
+    form:nth-child(1) input {
+        width: 400px !important;
+        height: 60px;
+    }
+    .textarea {
+        width: 400px !important;
+        height: 181px;
+    }
+    .button_end {
+        padding: 21px  !important;
+        font-size: 15px !important;
+        width: 100%;
+    }
+    #button-container input {
+        height: 76px;
+        width: 460px;
+    }
+    .p_box {
+        width: 560px;
+        height: 700px;
+        padding: 40px;
+    }
+    .main_three input::placeholder {
+        font-size: 18px;
+    }
+    .textarea::placeholder {
+        font-size: 18px;
+    }
+    .input-group-text {
+        padding-left: 15px !important;
+        padding-top: 18px !important;
+    }
+    .input-group {
+        margin-bottom: 20px !important;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .container {
+        max-width: 800px !important;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .main_one_bigbox {
+        flex-direction: column;
+        width: 325px;
+        height: 858px;
+    }
+    .bb_box_one {
+        width: 100%;
+        border-right: none;
+        border-bottom: 2px solid white;
+    }
+    .bb_box_two {
+        width: 100%;
+        border-right: none;
+        border-bottom: 2px solid white;
+    }
+    .bb_box_three {
+        width: 100%;
+        border-right: none;
+    }
+    .main_one {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .f_bigbox {
+        flex-wrap: wrap;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    .container {
+        max-width: 500px !important;
+    }
+    .menu_list {
+        display: none;
+    }
+    .menu_list_m {
+        display: flex;
+    }
+    .mt_bigbox {
+        padding-bottom: 30px;
+        height: auto;
+    }
+    /* zxxz */
+    form:nth-child(1) input {
+        width: 219px !important;
+        height: 60px;
+        padding-right: 0 !important;
+    }
+    .textarea {
+        width: 216px !important;
+        height: 80px;
+    }
+    .button_end {
+        font-size: 19px !important;
+    }
+    #button-container input {
+        height: 52px;
+        width: 282px;
+    }
+    .p_box {
+        width: 325px;
+        height: 550px;
+        padding: 30px 20px;
+    }
+    .main_three input::placeholder {
+        font-size: 15px;
+    }
+    .textarea::placeholder {
+        font-size: 15px;
+    }
+    .input-group-text {
+        padding-left: 18px !important;
+        padding-top: 15px !important;
+        padding-right: 15px !important;
+    }
+    .input-group {
+        margin-bottom: 20px !important;
+    }
+    .input-group-text img {
+        width: 20px;
+        height: 24px;
+    }
+    /* zxzx */
+    .f_menuone {
+        padding: 0 !important;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .container {
+        max-width: 325px !important;
+    }
+    .country_name {
+        font-size: 70px;
+    }
+    .border_box {
+        border-radius: 30px;
+    }
+    .country_box {
+        padding: 20px;
+        background-image: url(../assets/images/minidubai.png) !important;
+        border-radius: 30px;
+    }
+    .box_star {
+        width: 80px;
+        height: 35px;
+    }
+    .star {
+        width: 19px;
+        height: 19px;
+    }
+    .star_text {
+        font-size: 20px;
+    }
+    .box_prise {
+        width: 98px;
+        height: 35px;
+    }
+    .prise_text {
+        font-size: 15px;
+    }
+    .prise_texttwo {
+        font-size: 15px;
+    }
+    .double_box {
+        margin-bottom: 58px;
+    }
+    .menu {
+        margin: 0 !important;
+    }
+    .f_bigbox {
+        justify-content: start;
+    }
+    .f_menuone:nth-child(2) {
+        margin-right: 80px;
+    }
+    .f_onebox {
+        margin-bottom: 40px;
+    }
+    .navbar {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .logo_box {
+        margin-bottom: 10px;
+    }
+}
