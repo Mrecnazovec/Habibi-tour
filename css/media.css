@@ -234,6 +234,7 @@
         background-size: 780px 580px;
 
     }
+
 }
 
 @media screen and (max-width: 1340px) {
@@ -446,11 +447,11 @@
     }
 
     .mainFour input {
-        width: 90% !important;
+        width: 87% !important;
     }
 
     .textarea {
-        width: 90% !important;
+        width: 87% !important;
     }
 
     .input-group-text {
