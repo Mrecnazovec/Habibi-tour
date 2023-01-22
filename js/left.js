@@ -9,3 +9,4 @@ margin = Number(margin) + 12;
 console.log(margin);
 
 pos_blue_box.style.left = margin + "px";
+

@@ -1,0 +1,24 @@
+<svg width="747" height="520" viewBox="0 0 747 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_116_295)">
+<path d="M-53 171C-53 140.624 -28.3757 116 2 116H572C602.376 116 627 140.624 627 171V341C627 371.376 602.376 396 572 396H2.00002C-28.3756 396 -53 371.376 -53 341V171Z" fill="url(#paint0_linear_116_295)"/>
+</g>
+<ellipse rx="7.68362" ry="8" transform="matrix(-1 0 0 1 390.729 326)" fill="white" fill-opacity="0.2"/>
+<ellipse rx="7.68362" ry="8" transform="matrix(-1 0 0 1 398.412 209)" fill="white" fill-opacity="0.2"/>
+<ellipse rx="7.68362" ry="8" transform="matrix(-1 0 0 1 321.576 264)" fill="white" fill-opacity="0.2"/>
+<ellipse rx="7.68362" ry="8" transform="matrix(-1 0 0 1 558.808 277)" fill="white" fill-opacity="0.2"/>
+<defs>
+<filter id="filter0_d_116_295" x="-173" y="0" width="920" height="520" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="60"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.227209 0 0 0 0 0.337772 0 0 0 0 0.304603 0 0 0 0.07 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_116_295"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_116_295" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_116_295" x1="287" y1="116" x2="287" y2="396" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0D76D8"/>
+<stop offset="1" stop-color="#66B6FF"/>
+</linearGradient>
+</defs>
+</svg>
